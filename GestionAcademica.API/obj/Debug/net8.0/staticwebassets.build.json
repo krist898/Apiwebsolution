@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ybfShUyDVZAyDg8AKWxCZ1c5Po5OIWNR20xtK16tzq0=",
+  "Source": "GestionAcademica.API",
+  "BasePath": "_content/GestionAcademica.API",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
